@@ -40,3 +40,32 @@ Handles:
 - Continuous rotation using transform.Rotate()
 
 ### troncsTranslation.cs
+**Vertical log movement**
+- Moves logs up and down
+- Speed changes depending on height
+- Direction reverses at limits
+
+## Technologies Used
+- Unity
+- C#
+- TextMeshPro
+- Unity UI
+- Physics & Colliders
+- Randomization
+
+## Learning Objectives
+- Modular game architecture
+- Player movement and physics
+- Timers and formatting
+- UI management with TextMeshPro
+- Collision handling
+- Game state control
+- Obstacle animation through code
+
+## Possible Improvements
+- Add sound effects
+- Add difficulty levels
+- Controller support
+
+## License
+This project is intended for educational purposes and is free to use and modify.
